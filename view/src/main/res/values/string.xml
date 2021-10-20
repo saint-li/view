@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="noData">还没有数据哦~</string>
+    <string name="loadDataError">数据加载失败点击重试~</string>
+    <string name="loadDataErrorPullDownRefresh">数据加载失败下拉刷新~</string> <!-- 伸缩TextView -->
+    <string name="view_social_contract">收起</string>
+    <string name="view_social_expend">展开</string>
+    <string name="view_social_text_target">网页链接</string>
+    <string name="srl_footer_refreshing">等待刷新完成…</string>
+    <string name="srl_header_loading">等待加载完成…</string>
+</resources>

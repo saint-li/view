@@ -8,4 +8,6 @@
     <string name="view_social_text_target">网页链接</string>
     <string name="srl_footer_refreshing">等待刷新完成…</string>
     <string name="srl_header_loading">等待加载完成…</string>
+    <string name="to_expand_hint">展开</string>
+    <string name="to_shrink_hint">收起</string>
 </resources>
